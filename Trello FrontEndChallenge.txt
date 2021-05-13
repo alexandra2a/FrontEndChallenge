@@ -1,0 +1,37 @@
+créer une application web, sans dépendances sur des frameworks front-end (pas d’Angular, ni React, ni Vue.js…)*, qui répond aux exigences suivantes:
+
+    Un utilisateur doit être capable de dessiner des rectangles de couleur aléatoire en utilisant la souris
+
+    Lorsqu’il double clique sur un rectangle, le rectangle fait une rotation à 360° puis disparaît une fois la rotation complète
+
+    Lorsqu’il double clique sur plusieurs rectangles, toutes les rotations doivent se terminer avant la disparition des rectangles
+
+* En effet, nous avons une contrainte forte sur le fait que nous ne pouvons pas utiliser de librairies externes (développement éco-responsable (réduction du poids de la page), ainsi que des contraintes légales (licence)), nous devons donc nous limiter à l'utilisation de java-script pur. Néanmoins:
+
+    ES6 est accepté (même plutôt encouragé) et TypeScript est autorisé si tu préfères.
+
+    Tout est autorisé en outils de build, test, packaging (npm, webpack, Jest…).
+
+    L’application doit fonctionner sur Chrome, Firefox et Edge.
+
+
+
+
+
+todo :
+!!! add time spend !!!
+_ Create new page HTML, CSS, JS
+_ Draw a rectangle red
+_ double clik rotation 360 and disapear
+_ Draw multiple rectangles
+_ multiple clik then disapear after every rotation
+_ check Chrome, Firefox, Edge.
+
+
+
+
+
+questions : 
+_ couleurs aléatoires ?
+_ limites de la fenetre
+_ double clique sur plusieurs rectangles, toutes les rotations doivent se terminer avant la disparition des rectangles
