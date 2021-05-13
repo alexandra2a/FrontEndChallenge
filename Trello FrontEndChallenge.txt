@@ -33,5 +33,6 @@ _ check Chrome, Firefox, Edge.
 
 questions : 
 _ couleurs aléatoires ?
-_ limites de la fenetre
+_ limites de la fenetre, il doit cliquer dedant
 _ double clique sur plusieurs rectangles, toutes les rotations doivent se terminer avant la disparition des rectangles
+_ pas android
