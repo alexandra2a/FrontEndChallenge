@@ -26,6 +26,7 @@ _ double clik rotation 360 and disapear
 _ Draw multiple rectangles
 _ multiple clik then disapear after every rotation
 _ check Chrome, Firefox, Edge.
+_ sanitize
 
 
 
