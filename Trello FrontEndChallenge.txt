@@ -20,20 +20,25 @@ créer une application web, sans dépendances sur des frameworks front-end (pas 
 
 todo :
 !!! add time spend !!!
-_ Create new page HTML, CSS, JS
-_ Draw a rectangle red
-_ double clik rotation 360 and disapear
-_ Draw multiple rectangles
-_ multiple clik then disapear after every rotation
++ Create new page HTML, CSS, JS
++ Draw a rectangle red
++ double clik rotation 360 and disapear
++ Draw multiple rectangles
++ multiple clik then disapear after every rotation
+
+_ limit in the windows
+_ intuition of user for click outside windows
 _ check Chrome, Firefox, Edge.
 _ sanitize
+
+_think about smartfone thing
 
 
 
 
 
 questions : 
-_ couleurs aléatoires ?
-_ limites de la fenetre, il doit cliquer dedant
-_ double clique sur plusieurs rectangles, toutes les rotations doivent se terminer avant la disparition des rectangles
-_ pas android
++ couleurs aléatoires ?
++ limites de la fenetre, il doit cliquer dedant
++ double clique sur plusieurs rectangles, toutes les rotations doivent se terminer avant la disparition des rectangles
++ pas android

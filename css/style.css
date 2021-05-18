@@ -1,7 +1,13 @@
+* { padding: 0; margin: 0; }
+html, body { height:100%; }
+
+h1 {
+    padding: 10px;
+}
+
 #canvas {
-    width: 2000px;
-    height: 2000px;
-    border: 1px solid black;
+    width: 100%;
+    height: 100%;
 }
 
 .rectangle {
